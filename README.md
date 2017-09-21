@@ -1,4 +1,4 @@
-Project Art Experiment
+Projection Art Experiment
 =================
 
 Credits:
